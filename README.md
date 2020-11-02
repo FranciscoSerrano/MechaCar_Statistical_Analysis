@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis-
+# MechaCar Statistical Analysis
 
 ## Purpose
 
@@ -6,7 +6,7 @@ The purpose of this project was to conduct a series of statistical analyses on d
 
 ## Linear Regression to Predict MPG
 
-![Image of Linear Regression](https://github.com/josem279/MechaCar_Statistical_Analysis-/blob/main/Images/MechaCarDF_Summary_Stats.PNG)
+![Image of Linear Regression](Images/MechaCarDF_Summary_Stats.PNG)
 
 Using the summary output above, we can answer the following questions regarding MPG of the MechaCar prototypes:
 
@@ -24,9 +24,9 @@ Using the summary output above, we can answer the following questions regarding 
 
 ## Summary Statistics on Suspension Coils
 
-![total_summary image](https://github.com/josem279/MechaCar_Statistical_Analysis-/blob/main/Images/total_summary_image.PNG)
+![total_summary image](Images/total_summary_image.PNG)
 
-![lot_summary image](https://github.com/josem279/MechaCar_Statistical_Analysis-/blob/main/Images/lot_summary_image.PNG)
+![lot_summary image](Images/lot_summary_image.PNG)
 
 
 Using the total_summary and lot_summary dataframes shown above, we can answer the following question:
@@ -37,9 +37,9 @@ Using the total_summary and lot_summary dataframes shown above, we can answer th
 
 ## T-Tests on Suspension Coils
 
-![Image 1 of t-tests](https://github.com/josem279/MechaCar_Statistical_Analysis-/blob/main/Images/t-test_image_1.PNG)
+![Image 1 of t-tests](Images/t-test_image_1.PNG)
 
-![Image 2 of t-tests](https://github.com/josem279/MechaCar_Statistical_Analysis-/blob/main/Images/t-test_image_2.PNG)
+![Image 2 of t-tests](Images/t-test_image_2.PNG)
 
 
 ### T-Tests Summary
